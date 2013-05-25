@@ -1,0 +1,12 @@
+.splash-grid{
+	width: 600px;
+}
+
+.splash-grid ul li,
+.splash-grid ul li a{
+	width: 100px;
+	height: 100px;
+}
+.splash-grid ul li a img{
+	width: 100%;
+}
